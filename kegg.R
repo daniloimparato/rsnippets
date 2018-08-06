@@ -1,5 +1,3 @@
-library(RCurl)
-
 #todos as relacoes entre gene e pathway
 all_links <- read.table(
   url("http://rest.kegg.jp/link/pathway/hsa")
