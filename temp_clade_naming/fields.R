@@ -8,7 +8,7 @@ string_eukaryotes <- read_tsv(
   ,col_types = "cccci"
 )
 
-lineages <- entrez_fetch(
+lineages_xml <- entrez_fetch(
   db      = "taxonomy",
   id      = string_eukaryotes[["new_taxid"]],
   rettype = "xml",
@@ -17,7 +17,7 @@ lineages <- entrez_fetch(
 )
 
 string_eukaryotes %<>% mutate(
-  lineage_txt = xpathSApply(lineages, "//Lineage", xmlValue)
+  lineage_txt = xpathSApply(lineages_xml, "//Lineage", xmlValue)
 )
 
 clade_names <- string_eukaryotes %>%
@@ -30,9 +30,10 @@ clade_names <- string_eukaryotes %>%
     ,values_to  = "clade_name"
     ,indices_to = "clade_depth"
   ) %>%
-  # Collapsing lineages at clade ranks
+  # Counting and dropping the last group
   group_by(root, clade_depth, clade_name) %>%
-  tally(sort = TRUE) %>% # Tally drops the last group
+  tally(sort = TRUE) %>%
+  # Collapsing lineages by clade depths
   summarise(
      diverging_rank = n_distinct(clade_name) > 1
     ,clade_name     = ifelse(diverging_rank, paste0(clade_name, " (", n,")", collapse = "; "), clade_name)
