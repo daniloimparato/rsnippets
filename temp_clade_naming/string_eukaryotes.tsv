@@ -1,477 +1,477 @@
-taxid	string_name	new_taxid	ncbi_name
-2711	Citrus sinensis	2711	Citrus sinensis
-2850	Phaeodactylum tricornutum	2850	Phaeodactylum tricornutum
-2880	Ectocarpus siliculosus	2880	Ectocarpus siliculosus
-2903	Emiliania huxleyi	2903	Emiliania huxleyi
-3055	Chlamydomonas reinhardtii	3055	Chlamydomonas reinhardtii
-3067	Volvox carteri	3067	Volvox carteri
-3075	Auxenochlorella protothecoides	3075	Auxenochlorella protothecoides
-3218	Physcomitrella patens	3218	Physcomitrella patens
-3641	Theobroma cacao	3641	Theobroma cacao
-3649	Carica papaya	3649	Carica papaya
-3656	Cucumis melo	3656	Cucumis melo
-3659	Cucumis sativus	3659	Cucumis sativus
-3694	Populus trichocarpa	3694	Populus trichocarpa
-3702	Arabidopsis thaliana	3702	Arabidopsis thaliana
-3711	Brassica rapa	3711	Brassica rapa
-3712	Brassica oleracea	3712	Brassica oleracea
-3750	Malus domestica	3750	Malus domestica
-3760	Prunus persica	3760	Prunus persica
-3827	Cicer arietinum	3827	Cicer arietinum
-3847	Glycine max	3847	Glycine max
-3880	Medicago truncatula	3880	Medicago truncatula
-3885	Phaseolus vulgaris	3885	Phaseolus vulgaris
-3983	Manihot esculenta	3983	Manihot esculenta
-3988	Ricinus communis	3988	Ricinus communis
-4006	Linum usitatissimum	4006	Linum usitatissimum
-4081	Solanum lycopersicum	4081	Solanum lycopersicum
-4096	Nicotiana sylvestris	4096	Nicotiana sylvestris
-4098	Nicotiana tomentosiformis	4098	Nicotiana tomentosiformis
-4113	Solanum tuberosum	4113	Solanum tuberosum
-4155	Erythranthe guttata	4155	Erythranthe guttata
-4432	Nelumbo nucifera	4432	Nelumbo nucifera
-4513	Hordeum vulgare	4513	Hordeum vulgare
-4529	Oryza rufipogon	4529	Oryza rufipogon
-4533	Oryza brachyantha	4533	Oryza brachyantha
-4536	Oryza nivara	4536	Oryza sativa f. spontanea
-4537	Oryza punctata	4537	Oryza punctata
-4538	Oryza glaberrima	4538	Oryza glaberrima
-4555	Setaria italica	4555	Setaria italica
-4558	Sorghum bicolor	4558	Sorghum bicolor
-4565	Triticum aestivum	4565	Triticum aestivum
-4572	Triticum urartu	4572	Triticum urartu
-4577	Zea mays	4577	Zea mays
-4641	Musa acuminata	4641	Musa acuminata
-4787	Phytophthora infestans	4787	Phytophthora infestans
-4792	Phytophthora parasitica	4792	Phytophthora parasitica
-4896	Schizosaccharomyces pombe	4896	Schizosaccharomyces pombe
-4897	Schizosaccharomyces japonicus	4897	Schizosaccharomyces japonicus
-4899	Schizosaccharomyces octosporus	4899	Schizosaccharomyces octosporus
-4909	Pichia kudriavzevii	4909	Pichia kudriavzevii
-4920	Millerozyma farinosa	4920	Millerozyma farinosa
-4922	Komagataella pastoris	4922	Komagataella pastoris
-4924	Scheffersomyces stipitis	4924	Scheffersomyces stipitis
-4929	Meyerozyma guilliermondii	4929	Meyerozyma guilliermondii
-4932	Saccharomyces cerevisiae	4932	Saccharomyces cerevisiae
-4950	Torulaspora delbrueckii	4950	Torulaspora delbrueckii
-4952	Yarrowia lipolytica	4952	Yarrowia lipolytica
-4956	Zygosaccharomyces rouxii	4956	Zygosaccharomyces rouxii
-4959	Debaryomyces hansenii	4959	Debaryomyces hansenii
-5011	Taphrina deformans	5011	Taphrina deformans
-5016	Bipolaris maydis	5016	Bipolaris maydis
-5017	Bipolaris zeicola	5017	Bipolaris zeicola
-5022	Leptosphaeria maculans	5022	Leptosphaeria maculans
-5037	Histoplasma capsulatum	5037	Histoplasma capsulatum
-5039	Blastomyces dermatitidis	5039	Blastomyces dermatitidis
-5057	Aspergillus clavatus	5057	Aspergillus clavatus
-5059	Aspergillus flavus	5059	Aspergillus flavus
-5061	Aspergillus niger	5061	Aspergillus niger
-5062	Aspergillus oryzae	5062	Aspergillus oryzae
-5111	Claviceps purpurea	5111	Claviceps purpurea
-5127	Fusarium fujikuroi	5127	Fusarium fujikuroi
-5141	Neurospora crassa	5141	Neurospora crassa
-5145	Podospora anserina	2587412	Podospora anserina
-5147	Sordaria macrospora	5147	Sordaria macrospora
-5180	Sclerotinia sclerotiorum	5180	Sclerotinia sclerotiorum
-5207	Cryptococcus neoformans	5207	Cryptococcus neoformans
-5217	Tremella mesenterica	5217	Tremella mesenterica
-5270	Ustilago maydis	5270	Ustilago maydis
-5286	Rhodosporidium toruloides	5286	Rhodotorula toruloides
-5297	Puccinia graminis	5297	Puccinia graminis
-5334	Schizophyllum commune	5334	Schizophyllum commune
-5341	Agaricus bisporus	5341	Agaricus bisporus
-5346	Coprinopsis cinerea	5346	Coprinopsis cinerea
-5465	Colletotrichum orbiculare	5465	Colletotrichum orbiculare
-5476	Candida albicans	5476	Candida albicans
-5478	Candida glabrata	5478	[Candida] glabrata
-5479	Candida maltosa	5479	Candida maltosa
-5480	Candida parapsilosis	5480	Candida parapsilosis
-5482	Candida tropicalis	5482	Candida tropicalis
-5501	Coccidioides immitis	5501	Coccidioides immitis
-5507	Fusarium oxysporum	5507	Fusarium oxysporum
-5518	Fusarium graminearum	5518	Fusarium graminearum
-5551	Trichophyton rubrum	5551	Trichophyton rubrum
-5664	Leishmania major	5664	Leishmania major
-5671	Leishmania infantum	5671	Leishmania infantum
-5679	Leishmania panamensis	5679	Leishmania panamensis
-5691	Trypanosoma brucei	5691	Trypanosoma brucei
-5693	Trypanosoma cruzi	5693	Trypanosoma cruzi
-5722	Trichomonas vaginalis	5722	Trichomonas vaginalis
-5741	Giardia intestinalis	5741	Giardia intestinalis
-5759	Entamoeba histolytica	5759	Entamoeba histolytica
-5762	Naegleria gruberi	5762	Naegleria gruberi
-5786	Dictyostelium purpureum	5786	Dictyostelium purpureum
-5808	Cryptosporidium muris	5808	Cryptosporidium muris
-5811	Toxoplasma gondii	5811	Toxoplasma gondii
-5821	Plasmodium berghei	5821	Plasmodium berghei
-5825	Plasmodium chabaudi	5825	Plasmodium chabaudi
-5827	Plasmodium cynomolgi	5827	Plasmodium cynomolgi
-5833	Plasmodium falciparum	5833	Plasmodium falciparum
-5850	Plasmodium knowlesi	5850	Plasmodium knowlesi
-5855	Plasmodium vivax	5855	Plasmodium vivax
-5860	Plasmodium vinckei	5860	Plasmodium vinckei
-5865	Babesia bovis	5865	Babesia bovis
-5872	Babesia equi	5872	Theileria equi
-5874	Theileria annulata	5874	Theileria annulata
-5875	Theileria parva	5875	Theileria parva
-5888	Paramecium tetraurelia	5888	Paramecium tetraurelia
-5911	Tetrahymena thermophila	5911	Tetrahymena thermophila
-5932	Ichthyophthirius multifiliis	5932	Ichthyophthirius multifiliis
-5970	Exophiala dermatitidis	5970	Exophiala dermatitidis
-6087	Hydra vulgaris	6087	Hydra vulgaris
-6183	Schistosoma mansoni	6183	Schistosoma mansoni
-6211	Echinococcus multilocularis	6211	Echinococcus multilocularis
-6238	Caenorhabditis briggsae	6238	Caenorhabditis briggsae
-6239	Caenorhabditis elegans	6239	Caenorhabditis elegans
-6326	Bursaphelenchus xylophilus	6326	Bursaphelenchus xylophilus
-6334	Trichinella spiralis	6334	Trichinella spiralis
-6412	Helobdella robusta	6412	Helobdella robusta
-6500	Aplysia californica	6500	Aplysia californica
-6669	Daphnia pulex	6669	Daphnia pulex
-7029	Acyrthosiphon pisum	7029	Acyrthosiphon pisum
-7070	Tribolium castaneum	7070	Tribolium castaneum
-7091	Bombyx mori	7091	Bombyx mori
-7159	Aedes aegypti	7159	Aedes aegypti
-7165	Anopheles gambiae	7165	Anopheles gambiae
-7176	Culex quinquefasciatus	7176	Culex quinquefasciatus
-7209	Loa loa	7209	Loa loa
-7213	Ceratitis capitata	7213	Ceratitis capitata
-7217	Drosophila ananassae	7217	Drosophila ananassae
-7220	Drosophila erecta	7220	Drosophila erecta
-7222	Drosophila grimshawi	7222	Drosophila grimshawi
-7227	Drosophila melanogaster	7227	Drosophila melanogaster
-7230	Drosophila mojavensis	7230	Drosophila mojavensis
-7234	Drosophila persimilis	7234	Drosophila persimilis
-7237	Drosophila pseudoobscura	7237	Drosophila pseudoobscura
-7244	Drosophila virilis	7244	Drosophila virilis
-7245	Drosophila yakuba	7245	Drosophila yakuba
-7260	Drosophila willistoni	7260	Drosophila willistoni
-7370	Musca domestica	7370	Musca domestica
-7425	Nasonia vitripennis	7425	Nasonia vitripennis
-7460	Apis mellifera	7460	Apis mellifera
-7668	Strongylocentrotus purpuratus	7668	Strongylocentrotus purpuratus
-7719	Ciona intestinalis	7719	Ciona intestinalis
-7739	Branchiostoma floridae	7739	Branchiostoma floridae
-7897	Latimeria chalumnae	7897	Latimeria chalumnae
-7918	Lepisosteus oculatus	7918	Lepisosteus oculatus
-7955	Danio rerio	7955	Danio rerio
-7994	Astyanax mexicanus	7994	Astyanax mexicanus
-8010	Esox lucius	8010	Esox lucius
-8049	Gadus morhua	8049	Gadus morhua
-8081	Poecilia reticulata	8081	Poecilia reticulata
-8083	Xiphophorus maculatus	8083	Xiphophorus maculatus
-8090	Oryzias latipes	8090	Oryzias latipes
-8128	Oreochromis niloticus	8128	Oreochromis niloticus
-8153	Haplochromis burtoni	8153	Haplochromis burtoni
-8364	Xenopus tropicalis	8364	Xenopus tropicalis
-8469	Chelonia mydas	8469	Chelonia mydas
-8479	Chrysemys picta	8479	Chrysemys picta
-8496	Alligator mississippiensis	8496	Alligator mississippiensis
-8932	Columba livia	8932	Columba livia
-9031	Gallus gallus	9031	Gallus gallus
-9258	Ornithorhynchus anatinus	9258	Ornithorhynchus anatinus
-9305	Sarcophilus harrisii	9305	Sarcophilus harrisii
-9315	Macropus eugenii	9315	Notamacropus eugenii
-9361	Dasypus novemcinctus	9361	Dasypus novemcinctus
-9365	Erinaceus europaeus	9365	Erinaceus europaeus
-9371	Echinops telfairi	9371	Echinops telfairi
-9402	Pteropus alecto	9402	Pteropus alecto
-9478	Tarsius syrichta	1868482	Carlito syrichta
-9483	Callithrix jacchus	9483	Callithrix jacchus
-9541	Macaca fascicularis	9541	Macaca fascicularis
-9544	Macaca mulatta	9544	Macaca mulatta
-9555	Papio anubis	9555	Papio anubis
-9593	Gorilla gorilla	9593	Gorilla gorilla
-9597	Pan paniscus	9597	Pan paniscus
-9598	Pan troglodytes	9598	Pan troglodytes
-9601	Pongo abelii	9601	Pongo abelii
-9606	Homo sapiens	9606	Homo sapiens
-9612	Canis lupus	9612	Canis lupus
-9646	Ailuropoda melanoleuca	9646	Ailuropoda melanoleuca
-9668	Mustela putorius	9668	Mustela putorius
-9685	Felis catus	9685	Felis catus
-9694	Panthera tigris	9694	Panthera tigris
-9707	Odobenus rosmarus	9707	Odobenus rosmarus
-9713	Leptonychotes weddellii	9713	Leptonychotes weddellii
-9733	Orcinus orca	9733	Orcinus orca
-9739	Tursiops truncatus	9739	Tursiops truncatus
-9767	Balaenoptera acutorostrata	9767	Balaenoptera acutorostrata
-9778	Trichechus manatus	9778	Trichechus manatus
-9785	Loxodonta africana	9785	Loxodonta africana
-9818	Orycteropus afer	9818	Orycteropus afer
-9823	Sus scrofa	9823	Sus scrofa
-9913	Bos taurus	9913	Bos taurus
-9940	Ovis aries	9940	Ovis aries
-9978	Ochotona princeps	9978	Ochotona princeps
-9986	Oryctolagus cuniculus	9986	Oryctolagus cuniculus
-10029	Cricetulus griseus	10029	Cricetulus griseus
-10036	Mesocricetus auratus	10036	Mesocricetus auratus
-10042	Peromyscus maniculatus	10042	Peromyscus maniculatus
-10090	Mus musculus	10090	Mus musculus
-10116	Rattus norvegicus	10116	Rattus norvegicus
-10141	Cavia porcellus	10141	Cavia porcellus
-10160	Octodon degus	10160	Octodon degus
-10181	Heterocephalus glaber	10181	Heterocephalus glaber
-10224	Saccoglossus kowalevskii	10224	Saccoglossus kowalevskii
-10228	Trichoplax adhaerens	10228	Trichoplax adhaerens
-12957	Atta cephalotes	12957	Atta cephalotes
-13037	Danaus plexippus	13037	Danaus plexippus
-13249	Rhodnius prolixus	13249	Rhodnius prolixus
-13333	Amborella trichopoda	13333	Amborella trichopoda
-13349	Arthrobotrys oligospora	13349	Arthrobotrys oligospora
-13616	Monodelphis domestica	13616	Monodelphis domestica
-13684	Parastagonospora nodorum	13684	Parastagonospora nodorum
-13735	Pelodiscus sinensis	13735	Pelodiscus sinensis
-15368	Brachypodium distachyon	15368	Brachypodium distachyon
-27288	Naumovozyma castellii	27288	Naumovozyma castellii
-27289	Naumovozyma dairenensis	27289	Naumovozyma dairenensis
-27337	Verticillium dahliae	27337	Verticillium dahliae
-27679	Saimiri boliviensis	27679	Saimiri boliviensis
-27923	Mnemiopsis leidyi	27923	Mnemiopsis leidyi
-28377	Anolis carolinensis	28377	Anolis carolinensis
-28532	Tarenaya hassleriana	28532	Tarenaya hassleriana
-28564	Talaromyces stipitatus	28564	Talaromyces stipitatus
-28583	Allomyces macrogynus	28583	Allomyces macrogynus
-28737	Elephantulus edwardii	28737	Elephantulus edwardii
-28985	Kluyveromyces lactis	28985	Kluyveromyces lactis
-29073	Ursus maritimus	29073	Ursus maritimus
-29078	Eptesicus fuscus	29078	Eptesicus fuscus
-29176	Neospora caninum	29176	Neospora caninum
-29730	Gossypium raimondii	29730	Gossypium raimondii
-29760	Vitis vinifera	29760	Vitis vinifera
-29850	Gaeumannomyces graminis	29850	Gaeumannomyces graminis
-29875	Trichoderma virens	29875	Trichoderma virens
-29908	Sporothrix schenckii	29908	Sporothrix schenckii
-30611	Otolemur garnettii	30611	Otolemur garnettii
-31033	Takifugu rubripes	31033	Takifugu rubripes
-31234	Caenorhabditis remanei	31234	Caenorhabditis remanei
-31870	Colletotrichum graminicola	31870	Colletotrichum graminicola
-32264	Tetranychus urticae	32264	Tetranychus urticae
-32507	Neolamprologus brichardi	32507	Neolamprologus brichardi
-33169	Eremothecium gossypii	33169	Eremothecium gossypii
-33178	Aspergillus terreus	33178	Aspergillus terreus
-33188	Uncinocarpus reesii	33188	Uncinocarpus reesii
-34349	Mixia osmundae	34349	Mixia osmundae
-34373	Blumeria graminis	34373	Blumeria graminis
-34506	Strongyloides ratti	34506	Strongyloides ratti
-34740	Heliconius melpomene	34740	Heliconius melpomene
-34839	Chinchilla lanigera	34839	Chinchilla lanigera
-35128	Thalassiosira pseudonana	35128	Thalassiosira pseudonana
-35720	Thielavia terrestris	2587410	Thermothielavioides terrestris
-35725	Macrophomina phaseolina	35725	Macrophomina phaseolina
-36033	Vanderwaltozyma polyspora	36033	Vanderwaltozyma polyspora
-36080	Mucor circinelloides	36080	Mucor circinelloides
-36331	Pythium irregulare	36331	Pythium irregulare
-36630	Neosartorya fischeri	36630	Aspergillus fischeri
-36651	Penicillium digitatum	36651	Penicillium digitatum
-36914	Lodderomyces elongisporus	36914	Lodderomyces elongisporus
-37682	Aegilops tauschii	37682	Aegilops tauschii
-37727	Talaromyces marneffei	37727	Talaromyces marneffei
-38033	Chaetomium globosum	38033	Chaetomium globosum
-38654	Alligator sinensis	38654	Alligator sinensis
-38727	Panicum virgatum	38727	Panicum virgatum
-38833	Micromonas pusilla	38833	Micromonas pusilla
-39416	Tuber melanosporum	39416	Tuber melanosporum
-40127	Neurospora tetrasperma	40127	Neurospora tetrasperma
-40148	Oryza glumipatula	40148	Oryza glumipatula
-40149	Oryza meridionalis	40149	Oryza meridionalis
-40384	Aspergillus kawachii	40384	Aspergillus kawachii
-40483	Fomitopsis pinicola	40483	Fomitopsis pinicola
-40492	Stereum hirsutum	40492	Stereum hirsutum
-40559	Botrytis cinerea	40559	Botrytis cinerea
-41875	Bathycoccus prasinos	41875	Bathycoccus prasinos
-42068	Pneumocystis jirovecii	42068	Pneumocystis jirovecii
-42099	Pythium vexans	907947	Phytopythium vexans
-42254	Sorex araneus	42254	Sorex araneus
-42345	Phoenix dactylifera	42345	Phoenix dactylifera
-42374	Candida dubliniensis	42374	Candida dubliniensis
-43151	Anopheles darlingi	43151	Anopheles darlingi
-43179	Ictidomys tridecemlineatus	43179	Ictidomys tridecemlineatus
-43228	Capronia epimyces	43228	Capronia epimyces
-43229	Capronia coronata	43229	Capronia coronata
-44056	Aureococcus anophagefferens	44056	Aureococcus anophagefferens
-44689	Dictyostelium discoideum	44689	Dictyostelium discoideum
-45130	Bipolaris sorokiniana	45130	Bipolaris sorokiniana
-45151	Pyrenophora triticirepentis	45151	Pyrenophora tritici-repentis
-45157	Cyanidioschyzon merolae	45157	Cyanidioschyzon merolae
-45285	Eremothecium cymbalariae	45285	Eremothecium cymbalariae
-45351	Nematostella vectensis	45351	Nematostella vectensis
-45596	Candida tenuis	2315449	Yamadazyma tenuis
-46681	Entamoeba dispar	46681	Entamoeba dispar
-48698	Poecilia formosa	48698	Poecilia formosa
-50452	Arabis alpina	50452	Arabis alpina
-51337	Jaculus jaculus	51337	Jaculus jaculus
-51453	Trichoderma reesei	51453	Trichoderma reesei
-51511	Ciona savignyi	51511	Ciona savignyi
-52644	Haliaeetus leucocephalus	52644	Haliaeetus leucocephalus
-53485	Pyrenophora teres	53485	Pyrenophora teres
-55529	Guillardia theta	55529	Guillardia theta
-57918	Fragaria vesca	57918	Fragaria vesca
-59463	Myotis lucifugus	59463	Myotis lucifugus
-59538	Pantholops hodgsonii	59538	Pantholops hodgsonii
-59689	Arabidopsis lyrata	59689	Arabidopsis lyrata
-59894	Ficedula albicollis	59894	Ficedula albicollis
-60711	Chlorocebus sabaeus	60711	Chlorocebus sabaeus
-61273	Ophiostoma piceae	61273	Ophiostoma piceae
-61459	Coniosporium apollinis	61459	Coniosporium apollinis
-61622	Rhinopithecus roxellana	61622	Rhinopithecus roxellana
-61853	Nomascus leucogenys	61853	Nomascus leucogenys
-63400	Arthroderma benhamiae	63400	Trichophyton benhamiae
-63402	Microsporum gypseum	63402	Nannizzia gypsea
-63405	Arthroderma otae	63405	Microsporum canis
-63418	Trichophyton equinum	63418	Trichophyton equinum
-63577	Trichoderma atroviride	63577	Trichoderma atroviride
-64363	Mycosphaerella pini	64363	Dothistroma septosporum
-65071	Pythium ultimum	2052682	Globisporangium ultimum
-65489	Oryza barthii	65489	Oryza barthii
-65672	Piriformospora indica	65672	Serendipita indica
-67593	Phytophthora sojae	67593	Phytophthora sojae
-68886	Theileria orientalis	68886	Theileria orientalis
-69293	Gasterosteus aculeatus	69293	Gasterosteus aculeatus
-69319	Microplitis demolitor	69319	Microplitis demolitor
-69781	Penicillium oxalicum	69781	Penicillium oxalicum
-70448	Ostreococcus tauri	70448	Ostreococcus tauri
-71139	Eucalyptus grandis	71139	Eucalyptus grandis
-72004	Bos mutus	72004	Bos mutus
-72019	Sphaeroforma arctica	72019	Sphaeroforma arctica
-72228	Ophiocordyceps sinensis	72228	Ophiocordyceps sinensis
-72558	Sporisorium reilianum	72558	Sporisorium reilianum
-72658	Boechera stricta	72658	Boechera stricta
-72664	Eutrema salsugineum	72664	Eutrema salsugineum
-73501	Cordyceps militaris	73501	Cordyceps militaris
-77586	Leersia perrieri	77586	Leersia perrieri
-78579	Myceliophthora thermophila	78579	Thermothelomyces thermophilus
-78898	Mortierella verticillata	78898	Mortierella verticillata
-79684	Microtus ochrogaster	79684	Microtus ochrogaster
-80637	Coniophora puteana	80637	Coniophora puteana
-80884	Colletotrichum higginsianum	80884	Colletotrichum higginsianum
-81824	Monosiga brevicollis	81824	Monosiga brevicollis
-81985	Capsella rubella	81985	Capsella rubella
-82508	Trichosporon asahii	82508	Trichosporon asahii
-83344	Pseudocercospora fijiensis	1873960	Pseudocercospora fijiensis
-84751	Pseudozyma flocculosa	84751	Anthracocystis flocculosa
-85681	Citrus clementina	85681	Citrus clementina
-85929	Sphaerulina musiva	85929	Sphaerulina musiva
-85982	Serpula lacrymans	85982	Serpula lacrymans
-86049	Cladophialophora carrionii	86049	Cladophialophora carrionii
-88036	Selaginella moellendorffii	88036	Selaginella moellendorffii
-89462	Bubalus bubalis	89462	Bubalus bubalis
-90675	Camelina sativa	90675	Camelina sativa
-92637	Metarhizium acridum	92637	Metarhizium acridum
-93612	Setosphaeria turcica	93612	Exserohilum turcicum
-97096	Eutypa lata	97096	Eutypa lata
-99158	Hammondia hammondi	99158	Hammondia hammondi
-101028	Fusarium pseudograminearum	101028	Fusarium pseudograminearum
-101162	Bipolaris oryzae	101162	Bipolaris oryzae
-101852	Glarea lozoyensis	101852	Glarea lozoyensis
-102107	Prunus mume	102107	Prunus mume
-103372	Acromyrmex echinatior	103372	Acromyrmex echinatior
-104355	Gloeophyllum trabeum	104355	Gloeophyllum trabeum
-106582	Maylandia zebra	106582	Maylandia zebra
-109478	Myotis brandtii	109478	Myotis brandtii
-109760	Spizellomyces punctatus	109760	Spizellomyces punctatus
-109871	Batrachochytrium dendrobatidis	109871	Batrachochytrium dendrobatidis
-110365	Gregarina niphandrodes	110365	Gregarina niphandrodes
-112098	Saprolegnia diclina	112098	Saprolegnia diclina
-113608	Tetrapisispora phaffii	113608	Tetrapisispora phaffii
-115417	Pythium iwayamai	115417	Pythium iwayamai
-117187	Fusarium verticillioides	117187	Fusarium verticillioides
-118797	Lipotes vexillifer	118797	Lipotes vexillifer
-120017	Ustilago hordei	120017	Ustilago hordei
-121225	Pediculus humanus	121225	Pediculus humanus
-121759	Paracoccidioides brasiliensis	121759	Paracoccidioides brasiliensis
-126957	Strigamia maritima	126957	Strigamia maritima
-128390	Nipponia nippon	128390	Nipponia nippon
-130081	Galdieria sulphuraria	130081	Galdieria sulphuraria
-132113	Bombus impatiens	132113	Bombus impatiens
-132908	Pteropus vampyrus	132908	Pteropus vampyrus
-135651	Caenorhabditis brenneri	135651	Caenorhabditis brenneri
-136037	Zootermopsis nevadensis	136037	Zootermopsis nevadensis
-140110	Nectria haematococca	140110	[Nectria] haematococca
-144197	Stegastes partitus	144197	Stegastes partitus
-148304	Magnaporthiopsis poae	148304	Magnaporthiopsis poae
-148960	Wallemia sebi	148960	Wallemia sebi
-157072	Aphanomyces invadans	157072	Aphanomyces invadans
-159749	Thalassiosira oceanica	159749	Thalassiosira oceanica
-160860	Auricularia delicata	160860	Auricularia delicata
-161934	Beta vulgaris	161934	Beta vulgaris
-162425	Aspergillus nidulans	162425	Aspergillus nidulans
-164328	Phytophthora ramorum	164328	Phytophthora ramorum
-176275	Beauveria bassiana	176275	Beauveria bassiana
-176946	Python bivittatus	176946	Python bivittatus
-181119	Pseudopodoces humilis	181119	Pseudopodoces humilis
-185453	Chrysochloris asiatica	185453	Chrysochloris asiatica
-192875	Capsaspora owczarzaki	192875	Capsaspora owczarzaki
-199306	Coccidioides posadasii	199306	Coccidioides posadasii
-202698	Punctularia strigosozonata	202698	Punctularia strigosozonata
-203908	Melampsora laricipopulina	203908	Melampsora larici-populina
-208960	Fomitiporia mediterranea	208960	Fomitiporia mediterranea
-209285	Chaetomium thermophilum	209285	Chaetomium thermophilum
-215358	Larimichthys crocea	215358	Larimichthys crocea
-218851	Aquilegia coerulea	218851	Aquilegia coerulea
-221103	Moniliophthora roreri	221103	Moniliophthora roreri
-223192	Togninia minima	223192	Phaeoacremonium minimum
-225117	Pyrus x bretschneideri	225117	Pyrus x bretschneideri
-225400	Myotis davidii	225400	Myotis davidii
-226899	Grosmannia clavigera	226899	Grosmannia clavigera
-227086	Bigelowiella natans	227086	Bigelowiella natans
-242159	Ostreococcus lucimarinus	242159	Ostreococcus sp. 'lucimarinus'
-244447	Cynoglossus semilaevis	244447	Cynoglossus semilaevis
-245174	Wallemia ichthyophaga	245174	Wallemia ichthyophaga
-246437	Tupaia chinensis	246437	Tupaia chinensis
-248742	Coccomyxa subellipsoidea	248742	Coccomyxa subellipsoidea
-263815	Pneumocystis murina	263815	Pneumocystis murina
-264402	Capsella grandiflora	264402	Capsella grandiflora
-264951	Byssochlamys spectabilis	264951	Byssochlamys spectabilis
-272952	Hyaloperonospora arabidopsidis	272952	Hyaloperonospora arabidopsidis
-273371	Candida orthopsilosis	273371	Candida orthopsilosis
-281687	Caenorhabditis japonica	281687	Caenorhabditis japonica
-293227	Cyphellophora europaea	293227	Cyphellophora europaea
-296587	Micromonas sp. RCC299	296587	Micromonas commoda
-303518	Pundamilia nyererei	303518	Pundamilia nyererei
-310453	Neofusicoccum parvum	310453	Neofusicoccum parvum
-318829	Magnaporthe oryzae	318829	Pyricularia oryzae
-325452	Phytophthora kernoviae	325452	Phytophthora kernoviae
-327079	Pseudozyma hubeiensis	327079	Pseudozyma hubeiensis
-337075	Pyronema omphalodes	337075	Pyronema omphalodes
-340170	Spathaspora passalidarum	340170	Spathaspora passalidarum
-364733	Endocarpon pusillum	364733	Endocarpon pusillum
-381046	Lachancea thermotolerans	381046	Lachancea thermotolerans
-393283	Pestalotiopsis fici	393283	Pestalotiopsis fici
-400682	Amphimedon queenslandica	400682	Amphimedon queenslandica
-430498	Dactylellina haptotyla	430498	Dactylellina haptotyla
-430998	Baudoinia compniacensis	430998	Baudoinia compniacensis
-432096	Kazachstania africana	432096	Kazachstania africana
-470704	Cladophialophora yegresii	470704	Cladophialophora yegresii
-474922	Colletotrichum gloeosporioides	474922	Colletotrichum gloeosporioides
-482537	Galeopterus variegatus	482537	Galeopterus variegatus
-529818	Thecamonas trahens	529818	Thecamonas trahens
-552467	Cryptococcus gattii	552467	Cryptococcus gattii VGIII
-554065	Chlorella variabilis	554065	Chlorella variabilis
-568076	Metarhizium robertsii	568076	Metarhizium robertsii
-588596	Rhizophagus irregularis	588596	Rhizophagus irregularis
-588726	Kazachstania naganishii	588726	Kazachstania naganishii
-653948	Albugo laibachii	653948	Albugo laibachii
-655981	Pseudogymnoascus destructans	655981	Pseudogymnoascus destructans
-691883	Fonticula alba	691883	Fonticula alba
-698440	Marssonina brunnea	698440	Marssonina brunnea
-710243	Colletotrichum fioriniae	710243	Colletotrichum fioriniae
-746128	Aspergillus fumigatus	746128	Aspergillus fumigatus
-866546	Schizosaccharomyces cryophilus	866546	Schizosaccharomyces cryophilus
-885580	Fukomys damarensis	885580	Fukomys damarensis
-936053	Rhizopus delemar	936053	Rhizopus delemar
-946362	Salpingoeca rosetta	946362	Salpingoeca rosetta
-981085	Morus notabilis	981085	Morus notabilis
-984962	Heterobasidion irregulare	984962	Heterobasidion irregulare
-1005962	Ogataea parapolymorpha	1005962	Ogataea parapolymorpha
-1026970	Nannospalax galili	1026970	Nannospalax galili
-1041607	Wickerhamomyces ciferrii	1041607	Wickerhamomyces ciferrii
-1047171	Zymoseptoria tritici	1047171	Zymoseptoria tritici
-1048829	Paracoccidioides sp. lutzii	1048829	Paracoccidioides lutzii
-1051613	Verticillium alfalfae	1051613	Verticillium alfalfae
-1071379	Tetrapisispora blattae	1071379	Tetrapisispora blattae
-1108849	Penicillium rubens	1108849	Penicillium rubens
-1173701	Colletotrichum sublineola	1173701	Colletotrichum sublineola
-1182553	Cladophialophora psammophila	1182553	Cladophialophora psammophila
-1392244	Pseudozyma brasiliensis	1392244	Kalmanozyma brasiliensis
-1561998	Caenorhabditis tropicalis	1561998	Caenorhabditis tropicalis
+taxid	string_name	new_taxid	ncbi_name	root
+2711	Citrus sinensis	2711	Citrus sinensis	33
+2850	Phaeodactylum tricornutum	2850	Phaeodactylum tricornutum	36
+2880	Ectocarpus siliculosus	2880	Ectocarpus siliculosus	36
+2903	Emiliania huxleyi	2903	Emiliania huxleyi	36
+3055	Chlamydomonas reinhardtii	3055	Chlamydomonas reinhardtii	33
+3067	Volvox carteri	3067	Volvox carteri	33
+3075	Auxenochlorella protothecoides	3075	Auxenochlorella protothecoides	33
+3218	Physcomitrella patens	3218	Physcomitrella patens	33
+3641	Theobroma cacao	3641	Theobroma cacao	33
+3649	Carica papaya	3649	Carica papaya	33
+3656	Cucumis melo	3656	Cucumis melo	33
+3659	Cucumis sativus	3659	Cucumis sativus	33
+3694	Populus trichocarpa	3694	Populus trichocarpa	33
+3702	Arabidopsis thaliana	3702	Arabidopsis thaliana	33
+3711	Brassica rapa	3711	Brassica rapa	33
+3712	Brassica oleracea	3712	Brassica oleracea	33
+3750	Malus domestica	3750	Malus domestica	33
+3760	Prunus persica	3760	Prunus persica	33
+3827	Cicer arietinum	3827	Cicer arietinum	33
+3847	Glycine max	3847	Glycine max	33
+3880	Medicago truncatula	3880	Medicago truncatula	33
+3885	Phaseolus vulgaris	3885	Phaseolus vulgaris	33
+3983	Manihot esculenta	3983	Manihot esculenta	33
+3988	Ricinus communis	3988	Ricinus communis	33
+4006	Linum usitatissimum	4006	Linum usitatissimum	33
+4081	Solanum lycopersicum	4081	Solanum lycopersicum	33
+4096	Nicotiana sylvestris	4096	Nicotiana sylvestris	33
+4098	Nicotiana tomentosiformis	4098	Nicotiana tomentosiformis	33
+4113	Solanum tuberosum	4113	Solanum tuberosum	33
+4155	Erythranthe guttata	4155	Erythranthe guttata	33
+4432	Nelumbo nucifera	4432	Nelumbo nucifera	33
+4513	Hordeum vulgare	4513	Hordeum vulgare	33
+4529	Oryza rufipogon	4529	Oryza rufipogon	33
+4533	Oryza brachyantha	4533	Oryza brachyantha	33
+4536	Oryza nivara	4536	Oryza sativa f. spontanea	33
+4537	Oryza punctata	4537	Oryza punctata	33
+4538	Oryza glaberrima	4538	Oryza glaberrima	33
+4555	Setaria italica	4555	Setaria italica	33
+4558	Sorghum bicolor	4558	Sorghum bicolor	33
+4565	Triticum aestivum	4565	Triticum aestivum	33
+4572	Triticum urartu	4572	Triticum urartu	33
+4577	Zea mays	4577	Zea mays	33
+4641	Musa acuminata	4641	Musa acuminata	33
+4787	Phytophthora infestans	4787	Phytophthora infestans	36
+4792	Phytophthora parasitica	4792	Phytophthora parasitica	36
+4896	Schizosaccharomyces pombe	4896	Schizosaccharomyces pombe	31
+4897	Schizosaccharomyces japonicus	4897	Schizosaccharomyces japonicus	31
+4899	Schizosaccharomyces octosporus	4899	Schizosaccharomyces octosporus	31
+4909	Pichia kudriavzevii	4909	Pichia kudriavzevii	31
+4920	Millerozyma farinosa	4920	Millerozyma farinosa	31
+4922	Komagataella pastoris	4922	Komagataella pastoris	31
+4924	Scheffersomyces stipitis	4924	Scheffersomyces stipitis	31
+4929	Meyerozyma guilliermondii	4929	Meyerozyma guilliermondii	31
+4932	Saccharomyces cerevisiae	4932	Saccharomyces cerevisiae	31
+4950	Torulaspora delbrueckii	4950	Torulaspora delbrueckii	31
+4952	Yarrowia lipolytica	4952	Yarrowia lipolytica	31
+4956	Zygosaccharomyces rouxii	4956	Zygosaccharomyces rouxii	31
+4959	Debaryomyces hansenii	4959	Debaryomyces hansenii	31
+5011	Taphrina deformans	5011	Taphrina deformans	31
+5016	Bipolaris maydis	5016	Bipolaris maydis	31
+5017	Bipolaris zeicola	5017	Bipolaris zeicola	31
+5022	Leptosphaeria maculans	5022	Leptosphaeria maculans	31
+5037	Histoplasma capsulatum	5037	Histoplasma capsulatum	31
+5039	Blastomyces dermatitidis	5039	Blastomyces dermatitidis	31
+5057	Aspergillus clavatus	5057	Aspergillus clavatus	31
+5059	Aspergillus flavus	5059	Aspergillus flavus	31
+5061	Aspergillus niger	5061	Aspergillus niger	31
+5062	Aspergillus oryzae	5062	Aspergillus oryzae	31
+5111	Claviceps purpurea	5111	Claviceps purpurea	31
+5127	Fusarium fujikuroi	5127	Fusarium fujikuroi	31
+5141	Neurospora crassa	5141	Neurospora crassa	31
+5145	Podospora anserina	2587412	Podospora anserina	31
+5147	Sordaria macrospora	5147	Sordaria macrospora	31
+5180	Sclerotinia sclerotiorum	5180	Sclerotinia sclerotiorum	31
+5207	Cryptococcus neoformans	5207	Cryptococcus neoformans	31
+5217	Tremella mesenterica	5217	Tremella mesenterica	31
+5270	Ustilago maydis	5270	Ustilago maydis	31
+5286	Rhodosporidium toruloides	5286	Rhodotorula toruloides	31
+5297	Puccinia graminis	5297	Puccinia graminis	31
+5334	Schizophyllum commune	5334	Schizophyllum commune	31
+5341	Agaricus bisporus	5341	Agaricus bisporus	31
+5346	Coprinopsis cinerea	5346	Coprinopsis cinerea	31
+5465	Colletotrichum orbiculare	5465	Colletotrichum orbiculare	31
+5476	Candida albicans	5476	Candida albicans	31
+5478	Candida glabrata	5478	[Candida] glabrata	31
+5479	Candida maltosa	5479	Candida maltosa	31
+5480	Candida parapsilosis	5480	Candida parapsilosis	31
+5482	Candida tropicalis	5482	Candida tropicalis	31
+5501	Coccidioides immitis	5501	Coccidioides immitis	31
+5507	Fusarium oxysporum	5507	Fusarium oxysporum	31
+5518	Fusarium graminearum	5518	Fusarium graminearum	31
+5551	Trichophyton rubrum	5551	Trichophyton rubrum	31
+5664	Leishmania major	5664	Leishmania major	34
+5671	Leishmania infantum	5671	Leishmania infantum	34
+5679	Leishmania panamensis	5679	Leishmania panamensis	34
+5691	Trypanosoma brucei	5691	Trypanosoma brucei	34
+5693	Trypanosoma cruzi	5693	Trypanosoma cruzi	34
+5722	Trichomonas vaginalis	5722	Trichomonas vaginalis	34
+5741	Giardia intestinalis	5741	Giardia intestinalis	37
+5759	Entamoeba histolytica	5759	Entamoeba histolytica	32
+5762	Naegleria gruberi	5762	Naegleria gruberi	34
+5786	Dictyostelium purpureum	5786	Dictyostelium purpureum	32
+5808	Cryptosporidium muris	5808	Cryptosporidium muris	36
+5811	Toxoplasma gondii	5811	Toxoplasma gondii	36
+5821	Plasmodium berghei	5821	Plasmodium berghei	36
+5825	Plasmodium chabaudi	5825	Plasmodium chabaudi	36
+5827	Plasmodium cynomolgi	5827	Plasmodium cynomolgi	36
+5833	Plasmodium falciparum	5833	Plasmodium falciparum	36
+5850	Plasmodium knowlesi	5850	Plasmodium knowlesi	36
+5855	Plasmodium vivax	5855	Plasmodium vivax	36
+5860	Plasmodium vinckei	5860	Plasmodium vinckei	36
+5865	Babesia bovis	5865	Babesia bovis	36
+5872	Babesia equi	5872	Theileria equi	36
+5874	Theileria annulata	5874	Theileria annulata	36
+5875	Theileria parva	5875	Theileria parva	36
+5888	Paramecium tetraurelia	5888	Paramecium tetraurelia	36
+5911	Tetrahymena thermophila	5911	Tetrahymena thermophila	36
+5932	Ichthyophthirius multifiliis	5932	Ichthyophthirius multifiliis	36
+5970	Exophiala dermatitidis	5970	Exophiala dermatitidis	31
+6087	Hydra vulgaris	6087	Hydra vulgaris	26
+6183	Schistosoma mansoni	6183	Schistosoma mansoni	25
+6211	Echinococcus multilocularis	6211	Echinococcus multilocularis	25
+6238	Caenorhabditis briggsae	6238	Caenorhabditis briggsae	24
+6239	Caenorhabditis elegans	6239	Caenorhabditis elegans	24
+6326	Bursaphelenchus xylophilus	6326	Bursaphelenchus xylophilus	24
+6334	Trichinella spiralis	6334	Trichinella spiralis	24
+6412	Helobdella robusta	6412	Helobdella robusta	24
+6500	Aplysia californica	6500	Aplysia californica	24
+6669	Daphnia pulex	6669	Daphnia pulex	24
+7029	Acyrthosiphon pisum	7029	Acyrthosiphon pisum	24
+7070	Tribolium castaneum	7070	Tribolium castaneum	24
+7091	Bombyx mori	7091	Bombyx mori	24
+7159	Aedes aegypti	7159	Aedes aegypti	24
+7165	Anopheles gambiae	7165	Anopheles gambiae	24
+7176	Culex quinquefasciatus	7176	Culex quinquefasciatus	24
+7209	Loa loa	7209	Loa loa	24
+7213	Ceratitis capitata	7213	Ceratitis capitata	24
+7217	Drosophila ananassae	7217	Drosophila ananassae	24
+7220	Drosophila erecta	7220	Drosophila erecta	24
+7222	Drosophila grimshawi	7222	Drosophila grimshawi	24
+7227	Drosophila melanogaster	7227	Drosophila melanogaster	24
+7230	Drosophila mojavensis	7230	Drosophila mojavensis	24
+7234	Drosophila persimilis	7234	Drosophila persimilis	24
+7237	Drosophila pseudoobscura	7237	Drosophila pseudoobscura	24
+7244	Drosophila virilis	7244	Drosophila virilis	24
+7245	Drosophila yakuba	7245	Drosophila yakuba	24
+7260	Drosophila willistoni	7260	Drosophila willistoni	24
+7370	Musca domestica	7370	Musca domestica	24
+7425	Nasonia vitripennis	7425	Nasonia vitripennis	24
+7460	Apis mellifera	7460	Apis mellifera	24
+7668	Strongylocentrotus purpuratus	7668	Strongylocentrotus purpuratus	23
+7719	Ciona intestinalis	7719	Ciona intestinalis	21
+7739	Branchiostoma floridae	7739	Branchiostoma floridae	22
+7897	Latimeria chalumnae	7897	Latimeria chalumnae	19
+7918	Lepisosteus oculatus	7918	Lepisosteus oculatus	20
+7955	Danio rerio	7955	Danio rerio	20
+7994	Astyanax mexicanus	7994	Astyanax mexicanus	20
+8010	Esox lucius	8010	Esox lucius	20
+8049	Gadus morhua	8049	Gadus morhua	20
+8081	Poecilia reticulata	8081	Poecilia reticulata	20
+8083	Xiphophorus maculatus	8083	Xiphophorus maculatus	20
+8090	Oryzias latipes	8090	Oryzias latipes	20
+8128	Oreochromis niloticus	8128	Oreochromis niloticus	20
+8153	Haplochromis burtoni	8153	Haplochromis burtoni	20
+8364	Xenopus tropicalis	8364	Xenopus tropicalis	18
+8469	Chelonia mydas	8469	Chelonia mydas	17
+8479	Chrysemys picta	8479	Chrysemys picta	17
+8496	Alligator mississippiensis	8496	Alligator mississippiensis	17
+8932	Columba livia	8932	Columba livia	17
+9031	Gallus gallus	9031	Gallus gallus	17
+9258	Ornithorhynchus anatinus	9258	Ornithorhynchus anatinus	16
+9305	Sarcophilus harrisii	9305	Sarcophilus harrisii	15
+9315	Macropus eugenii	9315	Notamacropus eugenii	15
+9361	Dasypus novemcinctus	9361	Dasypus novemcinctus	14
+9365	Erinaceus europaeus	9365	Erinaceus europaeus	13
+9371	Echinops telfairi	9371	Echinops telfairi	14
+9402	Pteropus alecto	9402	Pteropus alecto	13
+9478	Tarsius syrichta	1868482	Carlito syrichta	8
+9483	Callithrix jacchus	9483	Callithrix jacchus	7
+9541	Macaca fascicularis	9541	Macaca fascicularis	6
+9544	Macaca mulatta	9544	Macaca mulatta	6
+9555	Papio anubis	9555	Papio anubis	6
+9593	Gorilla gorilla	9593	Gorilla gorilla	3
+9597	Pan paniscus	9597	Pan paniscus	2
+9598	Pan troglodytes	9598	Pan troglodytes	2
+9601	Pongo abelii	9601	Pongo abelii	4
+9606	Homo sapiens	9606	Homo sapiens	1
+9612	Canis lupus	9612	Canis lupus	13
+9646	Ailuropoda melanoleuca	9646	Ailuropoda melanoleuca	13
+9668	Mustela putorius	9668	Mustela putorius	13
+9685	Felis catus	9685	Felis catus	13
+9694	Panthera tigris	9694	Panthera tigris	13
+9707	Odobenus rosmarus	9707	Odobenus rosmarus	13
+9713	Leptonychotes weddellii	9713	Leptonychotes weddellii	13
+9733	Orcinus orca	9733	Orcinus orca	13
+9739	Tursiops truncatus	9739	Tursiops truncatus	13
+9767	Balaenoptera acutorostrata	9767	Balaenoptera acutorostrata	13
+9778	Trichechus manatus	9778	Trichechus manatus	14
+9785	Loxodonta africana	9785	Loxodonta africana	14
+9818	Orycteropus afer	9818	Orycteropus afer	14
+9823	Sus scrofa	9823	Sus scrofa	13
+9913	Bos taurus	9913	Bos taurus	13
+9940	Ovis aries	9940	Ovis aries	13
+9978	Ochotona princeps	9978	Ochotona princeps	12
+9986	Oryctolagus cuniculus	9986	Oryctolagus cuniculus	12
+10029	Cricetulus griseus	10029	Cricetulus griseus	12
+10036	Mesocricetus auratus	10036	Mesocricetus auratus	12
+10042	Peromyscus maniculatus	10042	Peromyscus maniculatus	12
+10090	Mus musculus	10090	Mus musculus	12
+10116	Rattus norvegicus	10116	Rattus norvegicus	12
+10141	Cavia porcellus	10141	Cavia porcellus	12
+10160	Octodon degus	10160	Octodon degus	12
+10181	Heterocephalus glaber	10181	Heterocephalus glaber	12
+10224	Saccoglossus kowalevskii	10224	Saccoglossus kowalevskii	23
+10228	Trichoplax adhaerens	10228	Trichoplax adhaerens	27
+12957	Atta cephalotes	12957	Atta cephalotes	24
+13037	Danaus plexippus	13037	Danaus plexippus	24
+13249	Rhodnius prolixus	13249	Rhodnius prolixus	24
+13333	Amborella trichopoda	13333	Amborella trichopoda	33
+13349	Arthrobotrys oligospora	13349	Arthrobotrys oligospora	31
+13616	Monodelphis domestica	13616	Monodelphis domestica	15
+13684	Parastagonospora nodorum	13684	Parastagonospora nodorum	31
+13735	Pelodiscus sinensis	13735	Pelodiscus sinensis	17
+15368	Brachypodium distachyon	15368	Brachypodium distachyon	33
+27288	Naumovozyma castellii	27288	Naumovozyma castellii	31
+27289	Naumovozyma dairenensis	27289	Naumovozyma dairenensis	31
+27337	Verticillium dahliae	27337	Verticillium dahliae	31
+27679	Saimiri boliviensis	27679	Saimiri boliviensis	7
+27923	Mnemiopsis leidyi	27923	Mnemiopsis leidyi	29
+28377	Anolis carolinensis	28377	Anolis carolinensis	17
+28532	Tarenaya hassleriana	28532	Tarenaya hassleriana	33
+28564	Talaromyces stipitatus	28564	Talaromyces stipitatus	31
+28583	Allomyces macrogynus	28583	Allomyces macrogynus	31
+28737	Elephantulus edwardii	28737	Elephantulus edwardii	14
+28985	Kluyveromyces lactis	28985	Kluyveromyces lactis	31
+29073	Ursus maritimus	29073	Ursus maritimus	13
+29078	Eptesicus fuscus	29078	Eptesicus fuscus	13
+29176	Neospora caninum	29176	Neospora caninum	36
+29730	Gossypium raimondii	29730	Gossypium raimondii	33
+29760	Vitis vinifera	29760	Vitis vinifera	33
+29850	Gaeumannomyces graminis	29850	Gaeumannomyces graminis	31
+29875	Trichoderma virens	29875	Trichoderma virens	31
+29908	Sporothrix schenckii	29908	Sporothrix schenckii	31
+30611	Otolemur garnettii	30611	Otolemur garnettii	9
+31033	Takifugu rubripes	31033	Takifugu rubripes	20
+31234	Caenorhabditis remanei	31234	Caenorhabditis remanei	24
+31870	Colletotrichum graminicola	31870	Colletotrichum graminicola	31
+32264	Tetranychus urticae	32264	Tetranychus urticae	24
+32507	Neolamprologus brichardi	32507	Neolamprologus brichardi	20
+33169	Eremothecium gossypii	33169	Eremothecium gossypii	31
+33178	Aspergillus terreus	33178	Aspergillus terreus	31
+33188	Uncinocarpus reesii	33188	Uncinocarpus reesii	31
+34349	Mixia osmundae	34349	Mixia osmundae	31
+34373	Blumeria graminis	34373	Blumeria graminis	31
+34506	Strongyloides ratti	34506	Strongyloides ratti	24
+34740	Heliconius melpomene	34740	Heliconius melpomene	24
+34839	Chinchilla lanigera	34839	Chinchilla lanigera	12
+35128	Thalassiosira pseudonana	35128	Thalassiosira pseudonana	36
+35720	Thielavia terrestris	2587410	Thermothielavioides terrestris	31
+35725	Macrophomina phaseolina	35725	Macrophomina phaseolina	31
+36033	Vanderwaltozyma polyspora	36033	Vanderwaltozyma polyspora	31
+36080	Mucor circinelloides	36080	Mucor circinelloides	31
+36331	Pythium irregulare	36331	Pythium irregulare	36
+36630	Neosartorya fischeri	36630	Aspergillus fischeri	31
+36651	Penicillium digitatum	36651	Penicillium digitatum	31
+36914	Lodderomyces elongisporus	36914	Lodderomyces elongisporus	31
+37682	Aegilops tauschii	37682	Aegilops tauschii	33
+37727	Talaromyces marneffei	37727	Talaromyces marneffei	31
+38033	Chaetomium globosum	38033	Chaetomium globosum	31
+38654	Alligator sinensis	38654	Alligator sinensis	17
+38727	Panicum virgatum	38727	Panicum virgatum	33
+38833	Micromonas pusilla	38833	Micromonas pusilla	33
+39416	Tuber melanosporum	39416	Tuber melanosporum	31
+40127	Neurospora tetrasperma	40127	Neurospora tetrasperma	31
+40148	Oryza glumipatula	40148	Oryza glumipatula	33
+40149	Oryza meridionalis	40149	Oryza meridionalis	33
+40384	Aspergillus kawachii	40384	Aspergillus kawachii	31
+40483	Fomitopsis pinicola	40483	Fomitopsis pinicola	31
+40492	Stereum hirsutum	40492	Stereum hirsutum	31
+40559	Botrytis cinerea	40559	Botrytis cinerea	31
+41875	Bathycoccus prasinos	41875	Bathycoccus prasinos	33
+42068	Pneumocystis jirovecii	42068	Pneumocystis jirovecii	31
+42099	Pythium vexans	907947	Phytopythium vexans	36
+42254	Sorex araneus	42254	Sorex araneus	13
+42345	Phoenix dactylifera	42345	Phoenix dactylifera	33
+42374	Candida dubliniensis	42374	Candida dubliniensis	31
+43151	Anopheles darlingi	43151	Anopheles darlingi	24
+43179	Ictidomys tridecemlineatus	43179	Ictidomys tridecemlineatus	12
+43228	Capronia epimyces	43228	Capronia epimyces	31
+43229	Capronia coronata	43229	Capronia coronata	31
+44056	Aureococcus anophagefferens	44056	Aureococcus anophagefferens	36
+44689	Dictyostelium discoideum	44689	Dictyostelium discoideum	32
+45130	Bipolaris sorokiniana	45130	Bipolaris sorokiniana	31
+45151	Pyrenophora triticirepentis	45151	Pyrenophora tritici-repentis	31
+45157	Cyanidioschyzon merolae	45157	Cyanidioschyzon merolae	35
+45285	Eremothecium cymbalariae	45285	Eremothecium cymbalariae	31
+45351	Nematostella vectensis	45351	Nematostella vectensis	26
+45596	Candida tenuis	2315449	Yamadazyma tenuis	31
+46681	Entamoeba dispar	46681	Entamoeba dispar	32
+48698	Poecilia formosa	48698	Poecilia formosa	20
+50452	Arabis alpina	50452	Arabis alpina	33
+51337	Jaculus jaculus	51337	Jaculus jaculus	12
+51453	Trichoderma reesei	51453	Trichoderma reesei	31
+51511	Ciona savignyi	51511	Ciona savignyi	21
+52644	Haliaeetus leucocephalus	52644	Haliaeetus leucocephalus	17
+53485	Pyrenophora teres	53485	Pyrenophora teres	31
+55529	Guillardia theta	55529	Guillardia theta	30
+57918	Fragaria vesca	57918	Fragaria vesca	33
+59463	Myotis lucifugus	59463	Myotis lucifugus	13
+59538	Pantholops hodgsonii	59538	Pantholops hodgsonii	13
+59689	Arabidopsis lyrata	59689	Arabidopsis lyrata	33
+59894	Ficedula albicollis	59894	Ficedula albicollis	17
+60711	Chlorocebus sabaeus	60711	Chlorocebus sabaeus	6
+61273	Ophiostoma piceae	61273	Ophiostoma piceae	31
+61459	Coniosporium apollinis	61459	Coniosporium apollinis	31
+61622	Rhinopithecus roxellana	61622	Rhinopithecus roxellana	6
+61853	Nomascus leucogenys	61853	Nomascus leucogenys	5
+63400	Arthroderma benhamiae	63400	Trichophyton benhamiae	31
+63402	Microsporum gypseum	63402	Nannizzia gypsea	31
+63405	Arthroderma otae	63405	Microsporum canis	31
+63418	Trichophyton equinum	63418	Trichophyton equinum	31
+63577	Trichoderma atroviride	63577	Trichoderma atroviride	31
+64363	Mycosphaerella pini	64363	Dothistroma septosporum	31
+65071	Pythium ultimum	2052682	Globisporangium ultimum	36
+65489	Oryza barthii	65489	Oryza barthii	33
+65672	Piriformospora indica	65672	Serendipita indica	31
+67593	Phytophthora sojae	67593	Phytophthora sojae	36
+68886	Theileria orientalis	68886	Theileria orientalis	36
+69293	Gasterosteus aculeatus	69293	Gasterosteus aculeatus	20
+69319	Microplitis demolitor	69319	Microplitis demolitor	24
+69781	Penicillium oxalicum	69781	Penicillium oxalicum	31
+70448	Ostreococcus tauri	70448	Ostreococcus tauri	33
+71139	Eucalyptus grandis	71139	Eucalyptus grandis	33
+72004	Bos mutus	72004	Bos mutus	13
+72019	Sphaeroforma arctica	72019	Sphaeroforma arctica	30
+72228	Ophiocordyceps sinensis	72228	Ophiocordyceps sinensis	31
+72558	Sporisorium reilianum	72558	Sporisorium reilianum	31
+72658	Boechera stricta	72658	Boechera stricta	33
+72664	Eutrema salsugineum	72664	Eutrema salsugineum	33
+73501	Cordyceps militaris	73501	Cordyceps militaris	31
+77586	Leersia perrieri	77586	Leersia perrieri	33
+78579	Myceliophthora thermophila	78579	Thermothelomyces thermophilus	31
+78898	Mortierella verticillata	78898	Mortierella verticillata	31
+79684	Microtus ochrogaster	79684	Microtus ochrogaster	12
+80637	Coniophora puteana	80637	Coniophora puteana	31
+80884	Colletotrichum higginsianum	80884	Colletotrichum higginsianum	31
+81824	Monosiga brevicollis	81824	Monosiga brevicollis	30
+81985	Capsella rubella	81985	Capsella rubella	33
+82508	Trichosporon asahii	82508	Trichosporon asahii	31
+83344	Pseudocercospora fijiensis	1873960	Pseudocercospora fijiensis	31
+84751	Pseudozyma flocculosa	84751	Anthracocystis flocculosa	31
+85681	Citrus clementina	85681	Citrus clementina	33
+85929	Sphaerulina musiva	85929	Sphaerulina musiva	31
+85982	Serpula lacrymans	85982	Serpula lacrymans	31
+86049	Cladophialophora carrionii	86049	Cladophialophora carrionii	31
+88036	Selaginella moellendorffii	88036	Selaginella moellendorffii	33
+89462	Bubalus bubalis	89462	Bubalus bubalis	13
+90675	Camelina sativa	90675	Camelina sativa	33
+92637	Metarhizium acridum	92637	Metarhizium acridum	31
+93612	Setosphaeria turcica	93612	Exserohilum turcicum	31
+97096	Eutypa lata	97096	Eutypa lata	31
+99158	Hammondia hammondi	99158	Hammondia hammondi	36
+101028	Fusarium pseudograminearum	101028	Fusarium pseudograminearum	31
+101162	Bipolaris oryzae	101162	Bipolaris oryzae	31
+101852	Glarea lozoyensis	101852	Glarea lozoyensis	31
+102107	Prunus mume	102107	Prunus mume	33
+103372	Acromyrmex echinatior	103372	Acromyrmex echinatior	24
+104355	Gloeophyllum trabeum	104355	Gloeophyllum trabeum	31
+106582	Maylandia zebra	106582	Maylandia zebra	20
+109478	Myotis brandtii	109478	Myotis brandtii	13
+109760	Spizellomyces punctatus	109760	Spizellomyces punctatus	31
+109871	Batrachochytrium dendrobatidis	109871	Batrachochytrium dendrobatidis	31
+110365	Gregarina niphandrodes	110365	Gregarina niphandrodes	36
+112098	Saprolegnia diclina	112098	Saprolegnia diclina	36
+113608	Tetrapisispora phaffii	113608	Tetrapisispora phaffii	31
+115417	Pythium iwayamai	115417	Pythium iwayamai	36
+117187	Fusarium verticillioides	117187	Fusarium verticillioides	31
+118797	Lipotes vexillifer	118797	Lipotes vexillifer	13
+120017	Ustilago hordei	120017	Ustilago hordei	31
+121225	Pediculus humanus	121225	Pediculus humanus	24
+121759	Paracoccidioides brasiliensis	121759	Paracoccidioides brasiliensis	31
+126957	Strigamia maritima	126957	Strigamia maritima	24
+128390	Nipponia nippon	128390	Nipponia nippon	17
+130081	Galdieria sulphuraria	130081	Galdieria sulphuraria	35
+132113	Bombus impatiens	132113	Bombus impatiens	24
+132908	Pteropus vampyrus	132908	Pteropus vampyrus	13
+135651	Caenorhabditis brenneri	135651	Caenorhabditis brenneri	24
+136037	Zootermopsis nevadensis	136037	Zootermopsis nevadensis	24
+140110	Nectria haematococca	140110	[Nectria] haematococca	31
+144197	Stegastes partitus	144197	Stegastes partitus	20
+148304	Magnaporthiopsis poae	148304	Magnaporthiopsis poae	31
+148960	Wallemia sebi	148960	Wallemia sebi	31
+157072	Aphanomyces invadans	157072	Aphanomyces invadans	36
+159749	Thalassiosira oceanica	159749	Thalassiosira oceanica	36
+160860	Auricularia delicata	160860	Auricularia delicata	31
+161934	Beta vulgaris	161934	Beta vulgaris	33
+162425	Aspergillus nidulans	162425	Aspergillus nidulans	31
+164328	Phytophthora ramorum	164328	Phytophthora ramorum	36
+176275	Beauveria bassiana	176275	Beauveria bassiana	31
+176946	Python bivittatus	176946	Python bivittatus	17
+181119	Pseudopodoces humilis	181119	Pseudopodoces humilis	17
+185453	Chrysochloris asiatica	185453	Chrysochloris asiatica	14
+192875	Capsaspora owczarzaki	192875	Capsaspora owczarzaki	30
+199306	Coccidioides posadasii	199306	Coccidioides posadasii	31
+202698	Punctularia strigosozonata	202698	Punctularia strigosozonata	31
+203908	Melampsora laricipopulina	203908	Melampsora larici-populina	31
+208960	Fomitiporia mediterranea	208960	Fomitiporia mediterranea	31
+209285	Chaetomium thermophilum	209285	Chaetomium thermophilum	31
+215358	Larimichthys crocea	215358	Larimichthys crocea	20
+218851	Aquilegia coerulea	218851	Aquilegia coerulea	33
+221103	Moniliophthora roreri	221103	Moniliophthora roreri	31
+223192	Togninia minima	223192	Phaeoacremonium minimum	31
+225117	Pyrus x bretschneideri	225117	Pyrus x bretschneideri	33
+225400	Myotis davidii	225400	Myotis davidii	13
+226899	Grosmannia clavigera	226899	Grosmannia clavigera	31
+227086	Bigelowiella natans	227086	Bigelowiella natans	34
+242159	Ostreococcus lucimarinus	242159	Ostreococcus sp. 'lucimarinus'	33
+244447	Cynoglossus semilaevis	244447	Cynoglossus semilaevis	20
+245174	Wallemia ichthyophaga	245174	Wallemia ichthyophaga	31
+246437	Tupaia chinensis	246437	Tupaia chinensis	11
+248742	Coccomyxa subellipsoidea	248742	Coccomyxa subellipsoidea	33
+263815	Pneumocystis murina	263815	Pneumocystis murina	31
+264402	Capsella grandiflora	264402	Capsella grandiflora	33
+264951	Byssochlamys spectabilis	264951	Byssochlamys spectabilis	31
+272952	Hyaloperonospora arabidopsidis	272952	Hyaloperonospora arabidopsidis	36
+273371	Candida orthopsilosis	273371	Candida orthopsilosis	31
+281687	Caenorhabditis japonica	281687	Caenorhabditis japonica	24
+293227	Cyphellophora europaea	293227	Cyphellophora europaea	31
+296587	Micromonas sp. RCC299	296587	Micromonas commoda	33
+303518	Pundamilia nyererei	303518	Pundamilia nyererei	20
+310453	Neofusicoccum parvum	310453	Neofusicoccum parvum	31
+318829	Magnaporthe oryzae	318829	Pyricularia oryzae	31
+325452	Phytophthora kernoviae	325452	Phytophthora kernoviae	36
+327079	Pseudozyma hubeiensis	327079	Pseudozyma hubeiensis	31
+337075	Pyronema omphalodes	337075	Pyronema omphalodes	31
+340170	Spathaspora passalidarum	340170	Spathaspora passalidarum	31
+364733	Endocarpon pusillum	364733	Endocarpon pusillum	31
+381046	Lachancea thermotolerans	381046	Lachancea thermotolerans	31
+393283	Pestalotiopsis fici	393283	Pestalotiopsis fici	31
+400682	Amphimedon queenslandica	400682	Amphimedon queenslandica	28
+430498	Dactylellina haptotyla	430498	Dactylellina haptotyla	31
+430998	Baudoinia compniacensis	430998	Baudoinia compniacensis	31
+432096	Kazachstania africana	432096	Kazachstania africana	31
+470704	Cladophialophora yegresii	470704	Cladophialophora yegresii	31
+474922	Colletotrichum gloeosporioides	474922	Colletotrichum gloeosporioides	31
+482537	Galeopterus variegatus	482537	Galeopterus variegatus	10
+529818	Thecamonas trahens	529818	Thecamonas trahens	30
+552467	Cryptococcus gattii	552467	Cryptococcus gattii VGIII	31
+554065	Chlorella variabilis	554065	Chlorella variabilis	33
+568076	Metarhizium robertsii	568076	Metarhizium robertsii	31
+588596	Rhizophagus irregularis	588596	Rhizophagus irregularis	31
+588726	Kazachstania naganishii	588726	Kazachstania naganishii	31
+653948	Albugo laibachii	653948	Albugo laibachii	36
+655981	Pseudogymnoascus destructans	655981	Pseudogymnoascus destructans	31
+691883	Fonticula alba	691883	Fonticula alba	30
+698440	Marssonina brunnea	698440	Marssonina brunnea	31
+710243	Colletotrichum fioriniae	710243	Colletotrichum fioriniae	31
+746128	Aspergillus fumigatus	746128	Aspergillus fumigatus	31
+866546	Schizosaccharomyces cryophilus	866546	Schizosaccharomyces cryophilus	31
+885580	Fukomys damarensis	885580	Fukomys damarensis	12
+936053	Rhizopus delemar	936053	Rhizopus delemar	31
+946362	Salpingoeca rosetta	946362	Salpingoeca rosetta	30
+981085	Morus notabilis	981085	Morus notabilis	33
+984962	Heterobasidion irregulare	984962	Heterobasidion irregulare	31
+1005962	Ogataea parapolymorpha	1005962	Ogataea parapolymorpha	31
+1026970	Nannospalax galili	1026970	Nannospalax galili	12
+1041607	Wickerhamomyces ciferrii	1041607	Wickerhamomyces ciferrii	31
+1047171	Zymoseptoria tritici	1047171	Zymoseptoria tritici	31
+1048829	Paracoccidioides sp. lutzii	1048829	Paracoccidioides lutzii	31
+1051613	Verticillium alfalfae	1051613	Verticillium alfalfae	31
+1071379	Tetrapisispora blattae	1071379	Tetrapisispora blattae	31
+1108849	Penicillium rubens	1108849	Penicillium rubens	31
+1173701	Colletotrichum sublineola	1173701	Colletotrichum sublineola	31
+1182553	Cladophialophora psammophila	1182553	Cladophialophora psammophila	31
+1392244	Pseudozyma brasiliensis	1392244	Kalmanozyma brasiliensis	31
+1561998	Caenorhabditis tropicalis	1561998	Caenorhabditis tropicalis	24
