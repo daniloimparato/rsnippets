@@ -1,7 +1,6 @@
 library(tidyverse)
 library(magrittr)
 library(twitteR)
-library(glue)
 
 options(httr_oauth_cache = T)
 
@@ -23,11 +22,14 @@ recipes <- tibble::tribble(
 
 participantes <- tibble::tribble(
   ~participante,    ~apelido,
-        "Karol",     "Karol",
-        "Karol",     "Kobra",
-        "Karol",  "Mamacita",
-       "Arthur",    "Arthur",
-          "Gil",       "Gil",
+  # "Karol",     "Karol",
+  # "Karol",     "Kobra",
+  # "Karol",  "Mamacita",
+  # "Arthur",    "Arthur",
+  # "Gil",       "Gil",
+  "Projota",     "Projota",
+  "Arthur",    "Arthur",
+  "Lumena",       "Lumena",
 )
 
 df <- participantes %>%
@@ -36,18 +38,33 @@ df <- participantes %>%
 
 query <- df %$% paste(hashtag, collapse = " OR ")
 
-search_results <- searchTwitter(query, n = 100, retryOnRateLimit = 1, lang = "pt") %>%
-  twListToDF %>%
+query <- "#ForaLumena OR #ForaArthur OR #ForaProjota"
+
+results_df <- searchTwitter(query, n = 20000, retryOnRateLimit = 1, lang = "pt") %>%
+  twListToDF
+
+search_results <- results_df %>%
   pull(text) %>%
   iconv("UTF-8", "ASCII//TRANSLIT", sub = "")
 
-df %<>%
+results_df <- df %>%
+  group_by(tipo) %>%
   mutate(
-     n = hashtag %>% fixed(T) %>% map_int(~ str_detect(search_results, .x) %>% sum)
-    ,np = n / sum(n)
+     n          = hashtag %>% fixed(T) %>% map_int(~ str_detect(search_results, .x) %>% sum)
+    ,group_size = sum(n)
+    ,prop       = ((n / group_size) * 100) %>% round(., 2)
+    ,ypos       = cumsum(prop) - (0.5 * prop)
   )
 
-ggplot(df, aes(x = "", y = n, fill = participante)) +
-  geom_bar(stat = "identity", position = "fill") +
-  coord_polar("y", start=0) +
-  facet_wrap(tipo ~ .)
+ggplot(results_df, aes(x = "", y = prop, fill = participante)) +
+  geom_bar(stat = "identity", color = "#ffffff", size = 2, width = 1) +
+  coord_polar("y", start = 0) +
+  geom_text(aes(label = paste0(prop, "%")), position = position_stack(vjust=0.5)) +
+  facet_wrap(tipo ~ sprintf("n = %i", group_size)) +
+  theme_void() + 
+  theme(
+     legend.title    = element_blank()
+    ,legend.position = "bottom"
+    ,legend.box      = "horizontal"
+  ) +
+  guides(color = guide_legend(nrow = 1))
