@@ -38,7 +38,7 @@ df <- participantes %>%
 
 query <- df %$% paste(hashtag, collapse = " OR ")
 
-query <- "#ForaLumena OR #ForaArthur OR #ForaProjota"
+# query <- "#ForaLumena OR #ForaArthur OR #ForaProjota"
 
 results_df <- searchTwitter(query, n = 20000, retryOnRateLimit = 1, lang = "pt") %>%
   twListToDF
