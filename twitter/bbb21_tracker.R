@@ -4,7 +4,7 @@ library(twitteR)
 
 options(httr_oauth_cache = T)
 
-config <- here::here("twitter/secret.json") %>% jsonlite::read_json()
+config <- jsonlite::read_json("C:/Users/danilo/Downloads/rsnippets/twitter/secret.json")
 
 setup_twitter_oauth(
    consumer_key    = config$consumer_key
@@ -22,25 +22,22 @@ recipes <- tibble::tribble(
 
 participantes <- tibble::tribble(
   ~participante,    ~apelido,
-  # "Karol",     "Karol",
-  # "Karol",     "Kobra",
-  # "Karol",  "Mamacita",
-  # "Arthur",    "Arthur",
-  # "Gil",       "Gil",
-  "Projota",     "Projota",
-  "Arthur",    "Arthur",
-  "Lumena",       "Lumena",
+    "Jessilane",     "Jessi",
+    "Jessilane", "Jessilane",
+       "Arthur",    "Arthur",
+         "Jade",      "Jade"
 )
 
+
 df <- participantes %>%
-  crossing(recipes) %>%
-  mutate(hashtag = sprintf(recipe, apelido))
+  tidyr::crossing(recipes) %>%
+  dplyr::mutate(hashtag = sprintf(recipe, apelido))
 
 query <- df %$% paste(hashtag, collapse = " OR ")
 
 # query <- "#ForaLumena OR #ForaArthur OR #ForaProjota"
 
-results_df <- searchTwitter(query, n = 20000, retryOnRateLimit = 1, lang = "pt") %>%
+results_df <- searchTwitter(str_glue("{query} exclude:retweets"), n = 20000, retryOnRateLimit = 1, lang = "pt", resultType = "recent") %>%
   twListToDF
 
 search_results <- results_df %>%
@@ -68,3 +65,5 @@ ggplot(results_df, aes(x = "", y = prop, fill = participante)) +
     ,legend.box      = "horizontal"
   ) +
   guides(color = guide_legend(nrow = 1))
+
+ggsave("C:/Users/danilo/Downloads/bbb22_%s.jpg" %>% sprintf(Sys.time() %>% format("%Y%m%d_%H%M")))
