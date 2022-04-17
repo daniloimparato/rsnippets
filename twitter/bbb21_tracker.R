@@ -21,12 +21,14 @@ recipes <- tibble::tribble(
 )
 
 participantes <- tibble::tribble(
-  ~participante,    ~apelido,
-    "Jessilane",     "Jessi",
-    "Jessilane", "Jessilane",
-       "Arthur",    "Arthur",
-         "Jade",      "Jade"
-)
+  ~participante,  ~apelido,
+    "Jessilane",   "Jessi",
+      "Eliezer",     "Eli",
+      "Eliezer", "Eliezer",
+       "Arthur",  "Arthur",
+      "Douglas",      "DG",
+      "Douglas", "Douglas"
+  )
 
 
 df <- participantes %>%
@@ -35,9 +37,13 @@ df <- participantes %>%
 
 query <- df %$% paste(hashtag, collapse = " OR ")
 
-# query <- "#ForaLumena OR #ForaArthur OR #ForaProjota"
-
-results_df <- searchTwitter(str_glue("{query} exclude:retweets"), n = 20000, retryOnRateLimit = 1, lang = "pt", resultType = "recent") %>%
+results_df <- searchTwitter(
+    searchString     = "{query} exclude:retweets" %>% str_glue,
+    n                = 20000,
+    retryOnRateLimit = 1,
+    lang             = "pt",
+    resultType       = "recent"
+  ) %>%
   twListToDF
 
 search_results <- results_df %>%
@@ -50,14 +56,19 @@ results_df <- df %>%
      n          = hashtag %>% fixed(T) %>% map_int(~ str_detect(search_results, .x) %>% sum)
     ,group_size = sum(n)
     ,prop       = ((n / group_size) * 100) %>% round(., 2)
-    ,ypos       = cumsum(prop) - (0.5 * prop)
+  ) %>%
+  group_by(tipo, participante) %>%
+  summarise(
+    n          = sum(n),
+    prop       = sum(prop),
+    group_size = unique(group_size)
   )
 
 ggplot(results_df, aes(x = "", y = prop, fill = participante)) +
   geom_bar(stat = "identity", color = "#ffffff", size = 2, width = 1) +
   coord_polar("y", start = 0) +
   geom_text(aes(label = paste0(prop, "%")), position = position_stack(vjust=0.5)) +
-  facet_wrap(tipo ~ sprintf("n = %i", group_size)) +
+  facet_wrap("{tipo}\nn = {group_size}" %>% str_glue ~ .) +
   theme_void() + 
   theme(
      legend.title    = element_blank()
